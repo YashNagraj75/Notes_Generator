@@ -48,5 +48,5 @@ Organize the following content into logical sections using Markdown headings (##
 Content:
 {content}
 
-Structured Content:
+Structured Content:git config --global user.email "ssk.katte@gmail.com"
 """
