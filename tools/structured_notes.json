@@ -1,0 +1,40 @@
+{
+  "slides": [
+    {
+      "slide_number": 1,
+      "structured_content": "Compiler Design Preet Kanwal Department of Computer Science & Engineering Teaching Assistant Kavya P K"
+    },
+    {
+      "slide_number": 2,
+      "structured_content": "Compiler Design Unit 3 Syntax Directed Definitions Preet Kanwal Department of Computer Science & Engineering"
+    },
+    {
+      "slide_number": 3,
+      "structured_content": "In this lecture, you will learn about Compiler Design. To generate Syntax tree for Expressions To generate Syntax tree for Statements"
+    },
+    {
+      "slide_number": 4,
+      "structured_content": "Compiler Design Example 1 SDD to generate Syntax tree for Expressions"
+    },
+    {
+      "slide_number": 5,
+      "structured_content": "Here is the clean, structured version of the text: Compiler Design Example 1 SDD to generate Syntax tree for Expressions Use the previous grammar to construct the syntax tree for the input a - 4 + c"
+    },
+    {
+      "slide_number": 6,
+      "structured_content": "Compiler Design Example 2 SDD to generate Syntax tree for Statements"
+    },
+    {
+      "slide_number": 7,
+      "structured_content": "Compiler Design Example 2 SDD to generate Syntax tree for Statements"
+    },
+    {
+      "slide_number": 8,
+      "structured_content": "Here is the clean, structured version of the text: Compiler Design Example 2 - SDD to generate Syntax tree for Statements Use the previous grammar to construct the syntax tree for the input if ( x > 10 ) { x = 10; }"
+    },
+    {
+      "slide_number": 9,
+      "structured_content": "Preet Kanwal Department of Computer Science & Engineering preetkanwal@pes.edu THANK YOU"
+    }
+  ]
+}
