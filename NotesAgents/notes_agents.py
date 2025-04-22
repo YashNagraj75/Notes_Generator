@@ -1,14 +1,7 @@
 import os
 
-from agents import (
-    Agent,
-    ModelSettings,
-    OpenAIChatCompletionsModel,
-    Runner,
-    handoff,
-    set_default_openai_api,
-    set_default_openai_client,
-)
+from agents import (Agent, ModelSettings, OpenAIChatCompletionsModel, Runner,
+                    handoff, set_default_openai_api, set_default_openai_client)
 from openai import AsyncOpenAI
 from openai.types.responses import tool
 
